@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337508745060",
+    "project_id": "chattery-ee675",
+    "storage_bucket": "chattery-ee675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337508745060:android:2384c7ef7b98205ed3c471",
+        "android_client_info": {
+          "package_name": "com.example.chattery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337508745060-v8jdvruovnngqno3ldpfsfn8g0d07jug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattery",
+            "certificate_hash": "73a8f6ddef8346978831199a01a35e70e8463889"
+          }
+        },
+        {
+          "client_id": "337508745060-1dpnuo8ibui2oo7cjgvl2sn7bme6ibhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMj8usOwlPdpxhMEQm_VeQDwnNzdXNd9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337508745060-1dpnuo8ibui2oo7cjgvl2sn7bme6ibhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
